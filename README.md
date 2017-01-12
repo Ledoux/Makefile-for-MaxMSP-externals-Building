@@ -7,8 +7,8 @@ Makefile-for-MaxMSP-externals-Building
   A. In a shell
   
   	```
-	git clone git@github.com:Ledoux/Makefile-for-MaxMSP-externals-Building.git
-	cd Makefile-for-MaxMSP-externals-Building && make
+		git clone git@github.com:Ledoux/Makefile-for-MaxMSP-externals-Building.git
+		cd Makefile-for-MaxMSP-externals-Building && make
   	```
   
   B. If it's not working, open the Makefile that recommends 
