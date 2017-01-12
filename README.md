@@ -4,11 +4,11 @@ Makefile-for-MaxMSP-externals-Building
   Building .mxo Max Objects without XCode for Mac Systems
   Installation of the example object will be like this:
   
-  A In a shell
-  ```
-  git clone git@github.com:Ledoux/Makefile-for-MaxMSP-externals-Building.git
-  cd Makefile-for-MaxMSP-externals-Building && make
-  ```
+  A. In a shell
+  	```
+	git clone git@github.com:Ledoux/Makefile-for-MaxMSP-externals-Building.git
+	cd Makefile-for-MaxMSP-externals-Building && make
+  	```
   
   B. If it's not working, open the Makefile that recommends 
   you some option settings that would be necessary for your 
